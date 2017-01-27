@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
-    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor name="mark-occurrences" underline="gray"/>
     <fontcolor foreColor="ff007c00" name="markup-attribute"/>
     <fontcolor name="private"/>
     <fontcolor foreColor="ffe6db74" name="string"/>
@@ -11,8 +11,8 @@
     <fontcolor foreColor="cyan" name="entity-reference"/>
     <fontcolor foreColor="white" name="operator"/>
     <fontcolor foreColor="ffad81ff" name="number"/>
-    <fontcolor bgColor="black" foreColor="white" name="default">
-        <font name="Liberation Mono" size="16"/>
+    <fontcolor bgColor="ff141414" foreColor="white" name="default">
+        <font name="Liberation Mono" size="16" style="plain"/>
     </fontcolor>
     <fontcolor name="protected"/>
     <fontcolor name="public"/>

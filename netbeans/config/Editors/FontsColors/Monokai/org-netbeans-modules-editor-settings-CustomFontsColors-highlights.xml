@@ -3,29 +3,29 @@
 <fontscolors>
     <fontcolor name="nbeditor-bracesMatching-match" underline="white"/>
     <fontcolor foreColor="darkGray" name="text-limit-line-color"/>
-    <fontcolor foreColor="white" name="code-folding"/>
+    <fontcolor foreColor="black" name="code-folding"/>
     <fontcolor foreColor="ffcc0099" name="synchronized-text-blocks-ext"/>
     <fontcolor name="nbeditor-bracesMatching-mismatch" underline="white"/>
     <fontcolor bgColor="ff0a0a0a" name="highlight-caret-row"/>
     <fontcolor bgColor="white" foreColor="white" name="caret-color-overwrite-mode"/>
-    <fontcolor name="status-bar"/>
+    <fontcolor foreColor="black" name="status-bar"/>
     <fontcolor bgColor="darkGray" name="guarded"/>
     <fontcolor name="trailing-whitespace"/>
     <fontcolor name="nbeditor-bracesMatching-mismatch-multichar" underline="white"/>
-    <fontcolor foreColor="ffcccccc" name="code-folding-border"/>
+    <fontcolor foreColor="black" name="code-folding-border"/>
     <fontcolor foreColor="black" name="west-sidebars-color"/>
     <fontcolor foreColor="red" name="status-bar-bold"/>
     <fontcolor foreColor="ff6b8eb2" name="nbeditor-bracesMatching-sidebar"/>
     <fontcolor foreColor="darkGray" name="line-number"/>
     <fontcolor bgColor="darkGray" name="readonly-files"/>
-    <fontcolor bgColor="gray" foreColor="yellow" name="highlight-search"/>
-    <fontcolor foreColor="white" name="code-folding-bar"/>
+    <fontcolor foreColor="green" name="highlight-search"/>
+    <fontcolor foreColor="gray" name="code-folding-bar"/>
     <fontcolor foreColor="ff996600" name="synchronized-text-blocks-ext-slave"/>
     <fontcolor foreColor="darkGray" name="indent-guide-lines"/>
     <fontcolor foreColor="darkGray" name="indent-whitespace"/>
-    <fontcolor bgColor="ffe0e8f1" foreColor="black" name="block-search"/>
+    <fontcolor bgColor="darkGray" foreColor="black" name="block-search"/>
     <fontcolor bgColor="ff1c1b1a" name="selection"/>
-    <fontcolor bgColor="ffff9900" name="inc-search"/>
+    <fontcolor name="inc-search" waveUnderlined="gray"/>
     <fontcolor name="nbeditor-bracesMatching-match-multichar" underline="white"/>
     <fontcolor bgColor="white" foreColor="white" name="caret-color-insert-mode"/>
     <fontcolor foreColor="cyan" name="hyperlinks" underline="cyan"/>
