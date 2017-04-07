@@ -12,7 +12,7 @@
     <fontcolor name="operator"/>
     <fontcolor foreColor="ffae81ff" name="number"/>
     <fontcolor bgColor="ff2e3340" foreColor="fff8f8f0" name="default">
-        <font name="DialogInput" size="18"/>
+        <font name="DejaVu Sans Mono" size="18"/>
     </fontcolor>
     <fontcolor name="protected"/>
     <fontcolor foreColor="fff92672" name="public"/>

@@ -13,4 +13,13 @@
     <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve">
         <value><![CDATA[NEW_LINE]]></value>
     </entry>
+    <entry javaType="java.lang.String" name="on-save-reformat" xml:space="preserve">
+        <value><![CDATA[never]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="on-save-remove-trailing-whitespace" xml:space="preserve">
+        <value><![CDATA[modified-lines]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="on-save-use-global-settings" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
 </editor-preferences>

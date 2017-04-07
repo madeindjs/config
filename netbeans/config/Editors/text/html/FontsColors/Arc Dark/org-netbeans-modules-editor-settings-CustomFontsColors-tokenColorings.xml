@@ -11,7 +11,7 @@
         <font style="bold"/>
     </fontcolor>
     <fontcolor default="error" name="error"/>
-    <fontcolor bgColor="ffe3f2e1" default="default" name="javascript-embedded"/>
+    <fontcolor default="default" name="javascript-embedded"/>
     <fontcolor default="argument" name="operator"/>
     <fontcolor default="entity-reference" name="character"/>
     <fontcolor default="comment" name="sgml-comment"/>
@@ -21,9 +21,6 @@
     <fontcolor default="markup-element" name="tag"/>
     <fontcolor default="default" name="text"/>
     <fontcolor default="whitespace" name="ws"/>
-    <fontcolor default="markup-attribute" name="mod-constructor">
-        <font style="bold"/>
-    </fontcolor>
     <fontcolor default="markup-attribute-value" name="value"/>
-    <fontcolor bgColor="ffe3f2e1" default="default" name="css-embedded"/>
+    <fontcolor bgColor="gray" default="default" name="css-embedded"/>
 </fontscolors>

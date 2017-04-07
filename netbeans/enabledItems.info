@@ -2,6 +2,7 @@ GeneralGeneral
 GeneralStart Page
 GeneralAll Other Unspecified
 EditorMacros
+EditorCode Templates
 EditorOther
 FormattingIndentation
 Fonts & ColorsAnnotations Colors
@@ -13,9 +14,15 @@ Fonts & ColorsBlueTheme
 Fonts & ColorsMonokai
 Fonts & ColorsNetBeansEarth
 Fonts & ColorsDarcula
-ProjectsBasic
 KeymapsNetBeans
 PHPGeneral
+PHPPHPUnit
+PHPCode Analysis
+PHPApiGen
+MiscellaneousDebugger
 MiscellaneousCSS Preprocessors
+MiscellaneousDatabases
 MiscellaneousAnt Libraries & Variables
+MiscellaneousToolbars
 MiscellaneousFiles
+TeamHistory

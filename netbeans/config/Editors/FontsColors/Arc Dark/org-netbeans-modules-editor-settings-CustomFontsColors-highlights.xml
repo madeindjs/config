@@ -10,7 +10,7 @@
     <fontcolor foreColor="fff8f8f0" name="caret-color-overwrite-mode"/>
     <fontcolor name="status-bar"/>
     <fontcolor name="guarded"/>
-    <fontcolor name="trailing-whitespace"/>
+    <fontcolor bgColor="darkGray" name="trailing-whitespace"/>
     <fontcolor bgColor="ff8b0807" name="nbeditor-bracesMatching-mismatch-multichar"/>
     <fontcolor foreColor="ffcccccc" name="code-folding-border"/>
     <fontcolor name="west-sidebars-color"/>
