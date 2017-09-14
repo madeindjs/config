@@ -1,0 +1,13 @@
+// GitGutter Settings - User
+{
+  "show_status_bar_text": false,
+
+  "status_bar_text": [
+    "{{branch}}",
+  ],
+  "show_in_minimap": 2,
+  "theme": "Bars.gitgutter-theme",
+  "status_bar_text": [
+  ],
+  "show_in_minimap": -1,
+}

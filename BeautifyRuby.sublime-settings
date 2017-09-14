@@ -1,0 +1,5 @@
+{
+  "run_on_save": true,
+    "ruby": "/usr/bin/ruby",
+
+}

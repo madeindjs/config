@@ -1,0 +1,15 @@
+{
+    // when starting/stopping a session.
+    // Determine which URL to launch in the default web browser
+    "url": "http://localhost/?XDEBUG_SESSION_START=sublime.xdebug",
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "break_on_start": true,
+    "launch_browser": true,
+    "close_on_stop": true,
+    "pretty_output": false,
+}

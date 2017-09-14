@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"ayu",
+		"BeautifyRuby",
+		"Crystal",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"HTMLBeautify",
+		"INI",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"Liquid",
+		"LoremIpsum",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"php-snippets",
+		"PhpDoc",
+		"phpfmt",
+		"PHPUnit Completions",
+		"Pretty JSON",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-ruby",
+		"Theme - amCoder",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"Xdebug Client"
+	]
+}

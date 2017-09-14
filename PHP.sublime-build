@@ -1,0 +1,4 @@
+{
+    "cmd" : ["php", "$file"],
+    "file_regex": "php$",
+}

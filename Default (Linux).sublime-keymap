@@ -1,0 +1,33 @@
+[
+	{ "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["alt+left"], "command": "back_to_python_definition"},
+	// PHP Companion
+	{ "keys": ["f6"], "command": "expand_fqcn" },
+	{ "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+	{ "keys": ["f5"], "command": "find_use" },
+	{ "keys": ["f4"], "command": "import_namespace" },
+	{ "keys": ["shift+f12"], "command": "goto_definition_scope" },
+	{ "keys": ["alt+left"], "command": "jump_back" },
+	{ "keys": ["alt+right"], "command": "jump_forward" },
+	{
+		"keys": ["alt+1"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1]]
+		}
+	},
+	{
+		"keys": ["alt+2"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.5, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+]

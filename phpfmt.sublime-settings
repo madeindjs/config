@@ -1,0 +1,23 @@
+{
+	"format_on_save": true,
+	"passes":
+	[
+		"AlignConstVisibilityEquals",
+		"AlignDoubleArrow",
+		"AlignEquals",
+		"AlignGroupDoubleArrow",
+		"AlignPHPCode",
+		"AlignTypehint",
+		"AutoPreincrement",
+		"PrettyPrintDocBlocks",
+		"PSR2EmptyFunction",
+		"PSR2MultilineFunctionParams",
+		"ReindentSwitchBlocks",
+		"RestoreComments",
+		"ShortArray",
+		"SortUseNameSpace"
+	],
+	"php_bin": "/usr/bin/php7.1",
+	"psr2": true,
+	"version": 1
+}
